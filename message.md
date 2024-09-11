@@ -30,4 +30,14 @@ git add message.md
 git add file1.txt file2.js file3.css
 ```
 
+6. Commit the changes
+```bash
+git commit 
+git commit -m "Commit the changes"
+```
 
+7. Push the branch for reviewing
+```bash
+git push origin <branch-name>
+git push origin feature-login
+```
